@@ -1,6 +1,4 @@
-Hi, everyone! 👋
-
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! 👋
 
 I'm Chiagoziem James, a Python web developer. I'm currently honing my skills in Django/Tkinter/Flutter and striving to expand my knowledge in this exciting field.
 
