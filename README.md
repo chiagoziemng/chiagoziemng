@@ -1,7 +1,3 @@
-Certainly! Here’s a professional and clean resume template suitable for posting on your GitHub account. You can adjust the sections according to your specific experiences and skills.
-
----
-
 # **[Your Name]**
 
 [Your Professional Title or Position]
@@ -107,6 +103,3 @@ A brief paragraph summarizing your professional background, key skills, and care
 - [Interest 1] (e.g., Open Source Contributions, Machine Learning)
 - [Interest 2] (e.g., Game Development, Robotics)
 
----
-
-Feel free to customize this template with your personal details, and adjust the sections as needed. Once you have filled it out, you can create a Markdown file (`resume.md`) and post it to your GitHub repository, or include it in your GitHub profile README.
