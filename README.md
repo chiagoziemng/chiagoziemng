@@ -1,8 +1,8 @@
-Hi, I'm [Your Name]! 👋
+I'm James Leonard  
 
-I'm a web developer passionate about crafting responsive, user-friendly web applications with clean code and modern tools.
+A web developer curious about crafting responsive, user-friendly, performant web applications with clean code and modern tools.
 
-🌍 [Your Location] | 📫 [your.email@example.com] | 🔗 [your-portfolio.com]
+🌍 Nigeria | 📫 chiagoziemjamesng@gmail.com | 🔗 www.jamesdev.com.ng
 
 🔧 Skills
 
